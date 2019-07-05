@@ -1,0 +1,211 @@
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/Xamarin.iOS.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/System.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/Mono.Security.dll [External]
+Resolved pending breakpoint for 'UIKit.UIApplication.Main(string[], string, string)' to /Library/Frameworks/Xamarin.iOS.framework/Versions/12.10.0.153/src/Xamarin.iOS/UIKit/UIApplication.cs:62 [0x00000].
+Resolved pending breakpoint for 'UIKit.UIApplication.Main(string[], System.Type, System.Type)' to /Library/Frameworks/Xamarin.iOS.framework/Versions/12.10.0.153/src/Xamarin.iOS/UIKit/UIApplication.cs:75 [0x00000].
+Resolved pending breakpoint for 'UIKit.UIApplication.Main(string[])' to /Library/Frameworks/Xamarin.iOS.framework/Versions/12.10.0.153/src/Xamarin.iOS/UIKit/UIApplication.cs:80 [0x00000].
+Resolved pending breakpoint for 'UIKit.UIApplication.Main(string[], System.IntPtr, System.IntPtr)' to /Library/Frameworks/Xamarin.iOS.framework/Versions/12.10.0.153/src/Xamarin.iOS/UIKit/UIApplication.cs:85 [0x00000].
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/TwoTypeExample.iOS.exe
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/Xamarin.Forms.Platform.iOS.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/TwoTypeExample.dll
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/Xamarin.Forms.Core.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/netstandard.dll [External]
+2019-07-05 13:09:28.740660-0400 TwoTypeExample.iOS[2189:144177] Xamarin.iOS: Established connection with the IDE (fd: 5)
+2019-07-05 13:09:28.741243-0400 TwoTypeExample.iOS[2189:144177] Xamarin.iOS: Processing: 'start profiler: no'
+2019-07-05 13:09:28.741371-0400 TwoTypeExample.iOS[2189:144153] Xamarin.iOS: Profiler not loaded (disabled)
+2019-07-05 13:09:28.788951-0400 TwoTypeExample.iOS[2189:144153] Xamarin.iOS: Added dllmap for objc_msgSend
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/System.Core.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/System.Xml.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/System.Data.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/System.Numerics.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/System.Transactions.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/OpenTK-1.0.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/System.IO.Compression.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/System.IO.Compression.FileSystem.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/System.ComponentModel.Composition.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/System.Net.Http.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/System.Runtime.Serialization.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/System.ServiceModel.Internals.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/System.Web.Services.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/System.Xml.Linq.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/Xamarin.Forms.Platform.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/Xamarin.Forms.Xaml.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/SQLite-net.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/System.Runtime.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/SQLitePCLRaw.core.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/System.Collections.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/System.Runtime.Extensions.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/System.Linq.Expressions.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/System.Reflection.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/System.Diagnostics.Debug.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/System.Threading.Tasks.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/System.Linq.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/SQLitePCLRaw.batteries_v2.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/SQLitePCLRaw.provider.sqlite3.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/System.Threading.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/System.Reflection.Extensions.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/System.Globalization.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/FluentValidation.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/System.ComponentModel.Annotations.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/D9A24B98-D09F-4F79-9D02-BBDC50A22498/data/Containers/Bundle/Application/832811D2-359B-4261-B9A9-14C42119580B/TwoTypeExample.iOS.app/System.ComponentModel.DataAnnotations.dll [External]
+Loaded assembly: /Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/Xamarin.Interactive.XS/Xamarin Inspector.app/Contents/SharedSupport/Agents/Forms/iOS/Xamarin.Interactive.iOS.dll [External]
+2019-07-05 13:09:29.704295-0400 TwoTypeExample.iOS[2189:144182] Xamarin.iOS: Unable to locate assembly 'Xamarin.Interactive' (culture: '')
+2019-07-05 13:09:29.704887-0400 TwoTypeExample.iOS[2189:144182] Xamarin.iOS: Unable to locate assembly 'Xamarin.Interactive' (culture: '')
+Loaded assembly: /Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/Xamarin.Interactive.XS/Xamarin Inspector.app/Contents/SharedSupport/Agents/Forms/iOS/Xamarin.Interactive.dll [External]
+2019-07-05 13:09:29.751816-0400 TwoTypeExample.iOS[2189:144153] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=2189
+2019-07-05 13:09:29.752244-0400 TwoTypeExample.iOS[2189:144153] SecTaskCopyDebugDescription: TwoTypeExample.i[2189]/0#-1 LF=0
+==================================
+ContactList OnAppearing -1- 2019-07-05 13:09:34.8158820-04:00
+ContactList OnAppearing -2- after base.OnAppearing - 2019-07-05 13:09:34.8901010-04:00
+GarbCollect() - 2019-07-05 13:09:34.9027280-04:00
+ContactList OnAppearing -3- post Garbage Collect - 2019-07-05 13:09:34.9036300-04:00
+==================================
+ContactListViewModel() constructor -1- start - timestamp: 2019-07-05 13:09:34.9067860-04:00
+ContactListViewModel() constructor -2- sqlite connection: 140594383117792
+Repository() constructor start - 2019-07-05 13:09:34.9348540-04:00 - sqliteconnection ptr: 140594383117792
+Repository() constructor completed - 2019-07-05 13:09:34.9864400-04:00
+ContactListViewModel() constructor -3- end - timestamp: 2019-07-05 13:09:34.9067860-04:00
+==================================
+ContactList OnAppearing -4- new ContactListViewModel - 2019-07-05 13:09:35.0038660-04:00
+==================================
+==================================
+AddContactViewModel() constructor -1- start - timestamp: 2019-07-05 13:09:40.2995890-04:00
+AddContactViewModel() constructor -2- sqlite connection: 140594385195008
+Repository() constructor start - 2019-07-05 13:09:40.3656060-04:00 - sqliteconnection ptr: 140594385195008
+Repository() constructor completed - 2019-07-05 13:09:40.3668010-04:00
+AddContactViewModel() constructor -3- end - timestamp: 2019-07-05 13:09:40.2995890-04:00
+==================================
+==================================
+ContactList OnDisappearing -1- start - 2019-07-05 13:09:41.0967670-04:00
+ContactList OnDisappearing -2- after base.OnDisappearing - 2019-07-05 13:09:41.0990860-04:00
+Thread started:  #3
+ContactList OnDisappearing -3- BindingContext set to null - 2019-07-05 13:09:41.1190090-04:00
+GarbCollect() - 2019-07-05 13:09:41.1390280-04:00
+ContactList OnDisappearing -4- post Garbage Collect - 2019-07-05 13:09:41.1395350-04:00
+==================================
+==================================
+AddContact OnAppearing -1- 2019-07-05 13:09:41.1417310-04:00
+AddContact OnAppearing -2- after base.OnAppearing - 2019-07-05 13:09:41.1426930-04:00
+GarbCollect() - 2019-07-05 13:09:41.1613060-04:00
+AddContact OnAppearing -3- post Garbage Collect - 2019-07-05 13:09:41.1618880-04:00
+==================================
+Thread started: <Thread Pool> #4
+Thread started: <Thread Pool> #5
+Thread started: <Thread Pool> #6
+Thread started: <Thread Pool> #7
+2019-07-05 13:09:42.079653-0400 TwoTypeExample.iOS[2189:144153] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=2189
+2019-07-05 13:09:42.079900-0400 TwoTypeExample.iOS[2189:144153] SecTaskCopyDebugDescription: TwoTypeExample.i[2189]/0#-1 LF=0
+2019-07-05 13:09:44.608057-0400 TwoTypeExample.iOS[2189:144153] Can't find keyplane that supports type 5 for keyboard iPhone-PortraitTruffle-PhonePad; using 20714_PortraitTruffle_iPhone-Complex-Pad_Default
+Thread finished: <Thread Pool> #6
+Thread finished: <Thread Pool> #5
+Thread finished: <Thread Pool> #4
+Thread started: <Thread Pool> #8
+==================================
+AddContact OnDisappearing -1- start - 2019-07-05 13:10:52.2087560-04:00
+AddContact OnDisappearing -2- after base.OnDisappearing - 2019-07-05 13:10:52.2102190-04:00
+GarbCollect() - 2019-07-05 13:10:52.2359110-04:00
+AddContact OnDisappearing -3- post Garbage Collect - 2019-07-05 13:10:52.2372080-04:00
+==================================
+==================================
+ContactList OnAppearing -1- 2019-07-05 13:10:52.2416990-04:00
+ContactList OnAppearing -2- after base.OnAppearing - 2019-07-05 13:10:52.2428240-04:00
+GarbCollect() - 2019-07-05 13:10:52.2603670-04:00
+ContactList OnAppearing -3- post Garbage Collect - 2019-07-05 13:10:52.2614210-04:00
+==================================
+ContactListViewModel() constructor -1- start - timestamp: 2019-07-05 13:10:52.2625500-04:00
+ContactListViewModel() constructor -2- sqlite connection: 140594432200784
+Repository() constructor start - 2019-07-05 13:10:52.2640030-04:00 - sqliteconnection ptr: 140594432200784
+Repository() constructor completed - 2019-07-05 13:10:52.2668130-04:00
+Repository() destructor -1- - 2019-07-05 13:10:52.2681020-04:00
+Repository() destructor -2- sqliteconnection pointer original: 140594383117792
+Repository() destructor -3- sqliteconnection pointer current : 140594383117792
+ContactListViewModel() constructor -3- end - timestamp: 2019-07-05 13:10:52.2625500-04:00
+==================================
+Repository() destructor -4- in txn: False
+Repository() destructor -8- POST null, pre garb - 2019-07-05 13:10:52.2714860-04:00
+GarbCollect() - 2019-07-05 13:10:52.2901950-04:00
+Repository() destructor -9- POST GC #1 - 2019-07-05 13:10:52.2911420-04:00
+Repository() destructor -A- POST _databaseHelper null - 2019-07-05 13:10:52.2917980-04:00
+==================================
+ContactList OnAppearing -4- new ContactListViewModel - 2019-07-05 13:10:52.2930950-04:00
+==================================
+==================================
+ContactListViewModel destructor -1- timestamp: 2019-07-05 13:10:52.2948010-04:00
+GarbCollect() - 2019-07-05 13:10:52.3099430-04:00
+ContactListViewModel destructor -2- post Garb Collect - 2019-07-05 13:10:52.3105290-04:00
+==================================
+Thread finished: <Thread Pool> #7
+Thread started: <Thread Pool> #9
+Thread started: <Thread Pool> #10
+Thread finished: <Thread Pool> #8
+Thread started: <Thread Pool> #11
+Thread finished: <Thread Pool> #9
+==================================
+AddContactViewModel() constructor -1- start - timestamp: 2019-07-05 13:12:23.6945360-04:00
+AddContactViewModel() constructor -2- sqlite connection: 140594385386608
+Repository() constructor start - 2019-07-05 13:12:23.6963570-04:00 - sqliteconnection ptr: 140594385386608
+Repository() constructor completed - 2019-07-05 13:12:23.6972590-04:00
+AddContactViewModel() constructor -3- end - timestamp: 2019-07-05 13:12:23.6945360-04:00
+==================================
+==================================
+ContactList OnDisappearing -1- start - 2019-07-05 13:12:24.3052870-04:00
+ContactList OnDisappearing -2- after base.OnDisappearing - 2019-07-05 13:12:24.3073660-04:00
+ContactList OnDisappearing -3- BindingContext set to null - 2019-07-05 13:12:24.3096240-04:00
+GarbCollect() - 2019-07-05 13:12:24.3283640-04:00
+ContactList OnDisappearing -4- post Garbage Collect - 2019-07-05 13:12:24.3290930-04:00
+Repository() destructor -1- - 2019-07-05 13:12:24.3291360-04:00
+Repository() destructor -2- sqliteconnection pointer original: 140594385195008
+==================================
+Repository() destructor -3- sqliteconnection pointer current : 140594385195008
+Repository() destructor -4- in txn: False
+Repository() destructor -8- POST null, pre garb - 2019-07-05 13:12:24.3312820-04:00
+GarbCollect() - 2019-07-05 13:12:24.3617620-04:00
+Repository() destructor -9- POST GC #1 - 2019-07-05 13:12:24.3627510-04:00
+Repository() destructor -A- POST _databaseHelper null - 2019-07-05 13:12:24.3635500-04:00
+==================================
+==================================
+AddContact OnAppearing -1- 2019-07-05 13:12:24.3660600-04:00
+AddContact OnAppearing -2- after base.OnAppearing - 2019-07-05 13:12:24.3672050-04:00
+GarbCollect() - 2019-07-05 13:12:24.3855550-04:00
+AddContact OnAppearing -3- post Garbage Collect - 2019-07-05 13:12:24.3865410-04:00
+==================================
+AddContact destructor - 2019-07-05 13:12:24.3877970-04:00
+==================================
+2019-07-05 13:12:24.365627-0400 TwoTypeExample.iOS[2189:144181] [logging] API call with invalid database connection pointer
+2019-07-05 13:12:24.365901-0400 TwoTypeExample.iOS[2189:144181] [logging] misuse at line 154344 of [95fbac39ba]
+AddContactViewModel destructor -1- timestamp: 2019-07-05 13:12:24.3893500-04:00
+GarbCollect() - 2019-07-05 13:12:24.4073530-04:00
+AddContactViewModel destructor -2- post Garb Collect - 2019-07-05 13:12:24.4080540-04:00
+==================================
+Thread started: <Thread Pool> #12
+Thread started: <Thread Pool> #13
+Thread started: <Thread Pool> #14
+Thread started: <Thread Pool> #15
+Thread finished: <Thread Pool> #13
+Thread finished: <Thread Pool> #15
+Thread finished: <Thread Pool> #11
+Thread started: <Thread Pool> #16
+Thread finished: <Thread Pool> #12
+Thread finished: <Thread Pool> #14
+Thread finished: <Thread Pool> #10
+Thread started: <Thread Pool> #17
+Thread started: <Thread Pool> #18
+Thread finished: <Thread Pool> #16
+Thread started: <Thread Pool> #19
+Thread finished: <Thread Pool> #18
+Thread finished: <Thread Pool> #19
+Thread started: <Thread Pool> #20
+Thread finished: <Thread Pool> #17
+Thread started: <Thread Pool> #21
+Thread started: <Thread Pool> #22
+Thread finished: <Thread Pool> #22
+Thread finished: <Thread Pool> #20
+Thread started: <Thread Pool> #23
+Thread finished: <Thread Pool> #21
+Thread started: <Thread Pool> #24
+Thread started: <Thread Pool> #25
+Thread finished: <Thread Pool> #24
+Thread finished: <Thread Pool> #23
+Thread started: <Thread Pool> #26
+2019-07-05 13:17:01.424143-0400 TwoTypeExample.iOS[2189:144177] Xamarin.iOS: Processing: 'exit process'
+
