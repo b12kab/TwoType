@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="TwoTypeExample.Views.MessageList"
+             xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
+             ios:Page.UseSafeArea="true"
+             Title="Message List" 
+             >
+    <ContentPage.Content>
+        <Grid Padding="10,20,10,40">    
+            <Grid.RowDefinitions>    
+                <RowDefinition Height="*" />    
+                <RowDefinition Height="Auto" />    
+            </Grid.RowDefinitions>    
+            <ListView HasUnevenRows="true" 
+                      Grid.Row="0" 
+                      SeparatorColor="Black" 
+                      ItemsSource="{Binding MessageAndContactList}"  
+                      SelectedItem="{Binding SelectedMessageAndContact, Mode=TwoWay}">    
+                <ListView.ItemTemplate>    
+                    <DataTemplate>    
+                        <ViewCell>    
+                            <Grid Padding="10">    
+                                <Grid.RowDefinitions>    
+                                    <RowDefinition Height="Auto" />    
+                                    <RowDefinition Height="Auto" />    
+                                </Grid.RowDefinitions>    
+                                <Grid.ColumnDefinitions>    
+                                    <ColumnDefinition Width="*" />    
+                                </Grid.ColumnDefinitions>
+                                
+                                <StackLayout Orientation="Horizontal"
+                                             Grid.Row="0"   
+                                             VerticalOptions="Center"
+                                             HorizontalOptions="StartAndExpand" >
+                                    <Label Text="Message Created:"
+                                           FontAttributes="Bold" />
+                                    <Label Text="{Binding MessageCreated, 
+                                                 Converter={StaticResource ConverterDateToString}}"/>
+                                </StackLayout>
+                                
+                                <StackLayout Orientation="Horizontal"
+                                             Grid.Row="1"
+                                             VerticalOptions="Center"
+                                             HorizontalOptions="StartAndExpand" >
+                                    <Label Text="Message To:"
+                                           FontAttributes="Bold" />
+                                    <Label Text="{Binding ContactName}" />
+                                </StackLayout>
+                            </Grid>    
+                        </ViewCell>    
+                    </DataTemplate>    
+                </ListView.ItemTemplate>    
+            </ListView>
+            
+            <Button Text="New Message" 
+                        Grid.Row="1" 
+                        Grid.Column="0" 
+                        FontAttributes="Bold" 
+                        BorderRadius="0" 
+                        HeightRequest="40" 
+                        BorderColor="Black" 
+                        BorderWidth="1"  
+                        TextColor="Black"  
+                        Command="{Binding AddCommand}" />
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

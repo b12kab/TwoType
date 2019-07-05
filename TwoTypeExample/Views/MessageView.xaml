@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="TwoTypeExample.Views.MessageView"
+             xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
+             ios:Page.UseSafeArea="true"
+             >
+    <ContentView.Content>
+        <StackLayout Padding="10">
+            <Label Text="To:"
+                   FontSize="Medium"
+                   TextColor="Black"
+                   Margin="0,0,0,0"
+                   />
+            
+            <Picker Title="Select Contact-->"
+                    FontSize="Medium"
+                    ItemsSource="{Binding ContactList}"
+                    ItemDisplayBinding="{Binding Name, Mode=TwoWay}"
+                    SelectedItem="{Binding SelectedContact, Mode=TwoWay}"
+                    />
+
+            <Label Text="Message:"
+                   FontSize="Medium"
+                   TextColor="Black"
+                    Margin="0,10,0,0"
+                   />
+            
+            <Editor Text="{Binding MessageText}" 
+                    BackgroundColor="Black" 
+                    TextColor="Silver"
+                    VerticalOptions="FillAndExpand" 
+                    HorizontalOptions="FillAndExpand"
+                    />
+        </StackLayout>
+    </ContentView.Content>
+</ContentView>

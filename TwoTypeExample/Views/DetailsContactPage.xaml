@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="TwoTypeExample.Views.DetailsContactPage"
+             xmlns:local="clr-namespace:TwoTypeExample.Views" 
+             xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
+             ios:Page.UseSafeArea="true"
+             Title="Contact Details"  
+             BackgroundColor="#D5E7FA"  
+             >
+    <ContentPage.Content>
+        <StackLayout Padding="20" Spacing="12">  
+            <local:ContactView />  
+            <Button Text="Update" 
+                    BorderRadius="0" 
+                    Margin="0,30,0,0" 
+                    FontAttributes="Bold" 
+                    TextColor="White" 
+                    BackgroundColor="#5989B5" 
+                    Command="{Binding UpdateContactCommand}" />    
+            <Button Text="Delete" 
+                    BorderRadius="0" 
+                    Margin="0,30,0,0" 
+                    FontAttributes="Bold" 
+                    TextColor="White" 
+                    BackgroundColor="#5989B5" 
+                    Command="{Binding DeleteContactCommand}" />    
+        </StackLayout>          
+    </ContentPage.Content>
+</ContentPage>

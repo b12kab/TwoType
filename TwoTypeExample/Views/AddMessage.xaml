@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="TwoTypeExample.Views.AddMessage"
+             xmlns:local="clr-namespace:TwoTypeExample.Views"
+             xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
+             ios:Page.UseSafeArea="true"
+             Title="Add Message" 
+             BackgroundColor="#D5E7FA" 
+             >
+    <ContentPage.Content>
+        <StackLayout  >
+            <local:MessageView VerticalOptions="FillAndExpand" />
+            
+            <Button Command="{Binding AddMessageCommand}" 
+                    Margin="10,10,10,10"
+                    BorderRadius="0" 
+                    Text="Save Message" 
+                    FontAttributes="Bold" 
+                    TextColor="White" 
+                    BackgroundColor="#5989B5"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

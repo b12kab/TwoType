@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design" 
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             mc:Ignorable="d" 
+             x:Class="TwoTypeExample.MainPage"
+             xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
+             ios:Page.UseSafeArea="true"
+             Title="Contacts and Message Sample Program"
+             xmlns:local="clr-namespace:TwoTypeExample" 
+             >
+    <StackLayout>
+        <StackLayout.Padding>
+            <OnPlatform x:TypeArguments="Thickness"
+                        Android="10"
+                        iOS="10"/>
+        </StackLayout.Padding>
+        
+        <Button Command="{Binding ContactsCommand}" 
+                Text="Contacts"
+                Margin="0,0,0,10">
+            <Button.BorderRadius>
+                <OnPlatform x:TypeArguments="x:Int32"
+                            Android="0"
+                            iOS="6"/>
+            </Button.BorderRadius>
+            <Button.BorderWidth>
+                <OnPlatform x:TypeArguments="x:Double"
+                            Android="0"
+                            iOS="1"/>
+            </Button.BorderWidth>
+            <Button.FontAttributes>
+                <OnPlatform x:TypeArguments="FontAttributes"
+                            iOS="Bold"/>
+            </Button.FontAttributes>
+        </Button>
+        
+        <Button Command="{Binding MessageCommand}" 
+                Text="Messsages"
+                Margin="0,0,0,10">
+            <Button.BorderRadius>
+                <OnPlatform x:TypeArguments="x:Int32"
+                            Android="0"
+                            iOS="6"/>
+            </Button.BorderRadius>
+            <Button.BorderWidth>
+                <OnPlatform x:TypeArguments="x:Double"
+                            Android="0"
+                            iOS="1"/>
+            </Button.BorderWidth>
+            <Button.FontAttributes>
+                <OnPlatform x:TypeArguments="FontAttributes"
+                            iOS="Bold"/>
+            </Button.FontAttributes>
+        </Button>
+    </StackLayout>
+</ContentPage>

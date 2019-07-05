@@ -1,0 +1,13 @@
+﻿This is an addition of another form type to the SQLiteSample example located https://github.com/b12kab/SQLiteSample
+
+This was created to show the problems of sqlite-net-pcl under iOS with these errors:
+2019-06-19 20:31:27.159964-0400 PTTracker.iOS[3698:244528] [logging] API call with invalid database connection pointer
+2019-06-19 20:31:27.160134-0400 PTTracker.iOS[3698:244528] [logging] misuse at line 154344 of [95fbac39ba]
+
+This happens when the destructor on the repository (located in Services) is destructed and the 
+connection is disposed. It works without issue on Android.
+
+The reason for how this exists here - instead of how it works under https://github.com/b12kab/SQLiteSample
+is that the repository isn't testable with unit tests to validate the correct values are returning
+as both iOS / Android have the dependency service to get and open the file. This won't work
+on my Mac (or a PC) for unit testing.
