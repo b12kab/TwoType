@@ -1,0 +1,406 @@
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/Xamarin.iOS.dll [External]
+2021-07-17 16:09:43.491347-0400 TwoTypeExample.iOS[3734:122926] Xamarin.iOS: Established connection with the IDE (fd: 6)
+2021-07-17 16:09:43.494601-0400 TwoTypeExample.iOS[3734:122926] Xamarin.iOS: Processing: 'start profiler: no'
+2021-07-17 16:09:43.494752-0400 TwoTypeExample.iOS[3734:119703] Xamarin.iOS: Profiler not loaded (disabled)
+2021-07-17 16:09:43.585767-0400 TwoTypeExample.iOS[3734:119703] Xamarin.iOS: Added dllmap for objc_msgSend
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/System.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/Mono.Security.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/TwoTypeExample.iOS.exe
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/Xamarin.Forms.Platform.iOS.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/TwoTypeExample.dll
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/Xamarin.Forms.Core.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/netstandard.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/System.Core.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/System.Xml.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/System.Numerics.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/System.Data.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/System.Transactions.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/System.Data.DataSetExtensions.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/System.Drawing.Common.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/System.IO.Compression.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/System.IO.Compression.FileSystem.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/System.ComponentModel.Composition.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/System.Net.Http.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/System.Runtime.Serialization.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/System.ServiceModel.Internals.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/System.Web.Services.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/System.Xml.Linq.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/Xamarin.Forms.Platform.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/Xamarin.Forms.Xaml.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/SQLite-net.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/SQLitePCLRaw.core.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/System.Memory.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/System.Numerics.Vectors.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/System.Runtime.CompilerServices.Unsafe.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/System.Runtime.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/System.Buffers.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/SQLitePCLRaw.batteries_v2.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/SQLitePCLRaw.nativelibrary.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/SQLitePCLRaw.provider.dynamic_cdecl.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/FluentValidation.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/System.ComponentModel.Annotations.dll [External]
+Loaded assembly: /Users/keith/Library/Developer/CoreSimulator/Devices/67A5E3DC-DEFA-4C7E-ACF2-C39537CDCD02/data/Containers/Bundle/Application/45EDEFA7-42AD-47FA-8C0C-5CDADFD52DA1/TwoTypeExample.iOS.app/System.ComponentModel.DataAnnotations.dll [External]
+2021-07-17 16:09:44.444422-0400 TwoTypeExample.iOS[3734:119703] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=3734
+2021-07-17 16:09:44.444703-0400 TwoTypeExample.iOS[3734:119703] SecTaskCopyDebugDescription: TwoTypeExample.i[3734]/0#-1 LF=0
+2021-07-17 16:09:44.453957-0400 TwoTypeExample.iOS[3734:119703] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=3734
+2021-07-17 16:09:44.454224-0400 TwoTypeExample.iOS[3734:119703] SecTaskCopyDebugDescription: TwoTypeExample.i[3734]/0#-1 LF=0
+==================================
+ContactList OnAppearing -1- 2021-07-17 16:09:50.7141200-04:00
+ContactList OnAppearing -2- after base.OnAppearing - 2021-07-17 16:09:50.7631570-04:00
+GarbCollect() - 2021-07-17 16:09:50.7702510-04:00
+ContactList OnAppearing -3- post Garbage Collect - 2021-07-17 16:09:50.7706360-04:00
+==================================
+ContactListViewModel() constructor -1- start - timestamp: 2021-07-17 16:09:50.7718440-04:00
+ContactListViewModel() constructor -2- sqlite connection: SQLitePCL.sqlite3
+Repository() constructor start - 2021-07-17 16:09:50.8374100-04:00 - sqliteconnection ptr: SQLitePCL.sqlite3
+Repository() constructor completed - 2021-07-17 16:09:50.8791910-04:00
+ContactListViewModel() constructor -3- end - timestamp: 2021-07-17 16:09:50.7718440-04:00
+==================================
+ContactList OnAppearing -4- new ContactListViewModel - 2021-07-17 16:09:50.8906570-04:00
+==================================
+==================================
+AddContactViewModel() constructor -1- start - timestamp: 2021-07-17 16:09:59.0382390-04:00
+AddContactViewModel() constructor -2- sqlite connection: SQLitePCL.sqlite3
+Repository() constructor start - 2021-07-17 16:09:59.0957910-04:00 - sqliteconnection ptr: SQLitePCL.sqlite3
+Repository() constructor completed - 2021-07-17 16:09:59.1007100-04:00
+AddContactViewModel() constructor -3- end - timestamp: 2021-07-17 16:09:59.0382390-04:00
+==================================
+==================================
+ContactList OnDisappearing -1- start - 2021-07-17 16:09:59.8861910-04:00
+ContactList OnDisappearing -2- after base.OnDisappearing - 2021-07-17 16:09:59.8867840-04:00
+ContactList OnDisappearing -3- BindingContext set to null - 2021-07-17 16:09:59.8914910-04:00
+GarbCollect() - 2021-07-17 16:09:59.9023790-04:00
+ContactList OnDisappearing -4- post Garbage Collect - 2021-07-17 16:09:59.9028080-04:00
+==================================
+==================================
+AddContact OnAppearing -1- 2021-07-17 16:09:59.9047760-04:00
+AddContact OnAppearing -2- after base.OnAppearing - 2021-07-17 16:09:59.9053440-04:00
+GarbCollect() - 2021-07-17 16:09:59.9157430-04:00
+AddContact OnAppearing -3- post Garbage Collect - 2021-07-17 16:09:59.9161240-04:00
+==================================
+2021-07-17 16:10:50.524327-0400 TwoTypeExample.iOS[3734:119703] [DatePicker] UIDatePicker 0x7fdd6444e660 is being laid out below its minimum width of 280. This may not look like expected, especially with larger than normal font sizes.
+2021-07-17 16:10:50.537407-0400 TwoTypeExample.iOS[3734:119703] [DatePicker] UIDatePicker 0x7fdd6444e660 is being laid out below its minimum width of 280. This may not look like expected, especially with larger than normal font sizes.
+2021-07-17 16:10:50.578883-0400 TwoTypeExample.iOS[3734:119703] [DatePicker] UIDatePicker 0x7fdd6444e660 is being laid out below its minimum width of 280. This may not look like expected, especially with larger than normal font sizes.
+2021-07-17 16:10:50.622101-0400 TwoTypeExample.iOS[3734:119703] [DatePicker] UIDatePicker 0x7fdd6444e660 is being laid out below its minimum width of 280. This may not look like expected, especially with larger than normal font sizes.
+==================================
+AddContact OnDisappearing -1- start - 2021-07-17 16:11:59.0835560-04:00
+AddContact OnDisappearing -2- after base.OnDisappearing - 2021-07-17 16:11:59.0844900-04:00
+GarbCollect() - 2021-07-17 16:11:59.0941480-04:00
+AddContact OnDisappearing -3- post Garbage Collect - 2021-07-17 16:11:59.0946010-04:00
+==================================
+Repository() destructor -1- - 2021-07-17 16:11:59.0958990-04:00
+Repository() destructor -2- sqliteconnection pointer original: SQLitePCL.sqlite3
+Repository() destructor -3- sqliteconnection pointer current : SQLitePCL.sqlite3
+Repository() destructor -4- in txn: False
+Repository() destructor -8- POST null, pre garb - 2021-07-17 16:11:59.0974420-04:00
+GarbCollect() - 2021-07-17 16:11:59.1055930-04:00
+Repository() destructor -9- POST GC #1 - 2021-07-17 16:11:59.1060280-04:00
+Repository() destructor -A- POST _databaseHelper null - 2021-07-17 16:11:59.1063840-04:00
+==================================
+==================================
+ContactList OnAppearing -1- 2021-07-17 16:11:59.1071170-04:00
+ContactList OnAppearing -2- after base.OnAppearing - 2021-07-17 16:11:59.1077040-04:00
+GarbCollect() - 2021-07-17 16:11:59.1153310-04:00
+ContactList OnAppearing -3- post Garbage Collect - 2021-07-17 16:11:59.1157650-04:00
+==================================
+ContactListViewModel() constructor -1- start - timestamp: 2021-07-17 16:11:59.1164050-04:00
+ContactListViewModel() constructor -2- sqlite connection: SQLitePCL.sqlite3
+Repository() constructor start - 2021-07-17 16:11:59.1172470-04:00 - sqliteconnection ptr: SQLitePCL.sqlite3
+==================================
+ContactListViewModel destructor -1- timestamp: 2021-07-17 16:11:59.1180570-04:00
+GarbCollect() - 2021-07-17 16:11:59.1261150-04:00
+ContactListViewModel destructor -2- post Garb Collect - 2021-07-17 16:11:59.1265620-04:00
+==================================
+Repository() constructor completed - 2021-07-17 16:11:59.1275630-04:00
+ContactListViewModel() constructor -3- end - timestamp: 2021-07-17 16:11:59.1164050-04:00
+==================================
+ContactList OnAppearing -4- new ContactListViewModel - 2021-07-17 16:11:59.1299700-04:00
+==================================
+==================================
+AddContactViewModel() constructor -1- start - timestamp: 2021-07-17 16:12:15.1770150-04:00
+AddContactViewModel() constructor -2- sqlite connection: SQLitePCL.sqlite3
+Repository() constructor start - 2021-07-17 16:12:15.1786300-04:00 - sqliteconnection ptr: SQLitePCL.sqlite3
+Repository() constructor completed - 2021-07-17 16:12:15.1794740-04:00
+AddContactViewModel() constructor -3- end - timestamp: 2021-07-17 16:12:15.1770150-04:00
+==================================
+==================================
+ContactList OnDisappearing -1- start - 2021-07-17 16:12:15.7547240-04:00
+ContactList OnDisappearing -2- after base.OnDisappearing - 2021-07-17 16:12:15.7557060-04:00
+Thread started:  #2
+ContactList OnDisappearing -3- BindingContext set to null - 2021-07-17 16:12:15.7747390-04:00
+GarbCollect() - 2021-07-17 16:12:15.7842510-04:00
+ContactList OnDisappearing -4- post Garbage Collect - 2021-07-17 16:12:15.7847400-04:00
+==================================
+AddContact destructor - 2021-07-17 16:12:15.7856830-04:00
+==================================
+2021-07-17 16:12:15.786594-0400 TwoTypeExample.iOS[3734:122935] [logging] API call with invalid database connection pointer
+2021-07-17 16:12:15.786748-0400 TwoTypeExample.iOS[3734:122935] [logging] misuse at line 169014 of [02c344acea]
+AddContact OnAppearing -1- 2021-07-17 16:12:15.7867380-04:00
+AddContact OnAppearing -2- after base.OnAppearing - 2021-07-17 16:12:15.7873650-04:00
+GarbCollect() - 2021-07-17 16:12:15.7964470-04:00
+AddContact OnAppearing -3- post Garbage Collect - 2021-07-17 16:12:15.7968780-04:00
+==================================
+Repository() destructor -1- - 2021-07-17 16:12:15.7964860-04:00
+Repository() destructor -2- sqliteconnection pointer original: SQLitePCL.sqlite3
+Repository() destructor -3- sqliteconnection pointer current :  handle is null?
+Repository() destructor -4- in txn: False
+Repository() destructor -8- POST null, pre garb - 2021-07-17 16:12:15.7986910-04:00
+GarbCollect() - 2021-07-17 16:12:15.8069450-04:00
+Repository() destructor -9- POST GC #1 - 2021-07-17 16:12:15.8075000-04:00
+Repository() destructor -A- POST _databaseHelper null - 2021-07-17 16:12:15.8079130-04:00
+==================================
+==================================
+AddContactViewModel destructor -1- timestamp: 2021-07-17 16:12:15.8094670-04:00
+GarbCollect() - 2021-07-17 16:12:15.8203170-04:00
+AddContactViewModel destructor -2- post Garb Collect - 2021-07-17 16:12:15.8208690-04:00
+==================================
+Thread started: <Thread Pool> #3
+Thread started: <Thread Pool> #4
+Thread started: <Thread Pool> #5
+Thread started: <Thread Pool> #6
+Thread finished: <Thread Pool> #4
+==================================
+AddContact OnDisappearing -1- start - 2021-07-17 16:13:11.0692390-04:00
+AddContact OnDisappearing -2- after base.OnDisappearing - 2021-07-17 16:13:11.0702530-04:00
+GarbCollect() - 2021-07-17 16:13:11.0799230-04:00
+AddContact OnDisappearing -3- post Garbage Collect - 2021-07-17 16:13:11.0803480-04:00
+==================================
+Repository() destructor -1- - 2021-07-17 16:13:11.0813800-04:00
+Repository() destructor -2- sqliteconnection pointer original: SQLitePCL.sqlite3
+Repository() destructor -3- sqliteconnection pointer current : SQLitePCL.sqlite3
+Repository() destructor -4- in txn: False
+Repository() destructor -8- POST null, pre garb - 2021-07-17 16:13:11.0826590-04:00
+GarbCollect() - 2021-07-17 16:13:11.0915910-04:00
+Repository() destructor -9- POST GC #1 - 2021-07-17 16:13:11.0920700-04:00
+Repository() destructor -A- POST _databaseHelper null - 2021-07-17 16:13:11.0924490-04:00
+==================================
+==================================
+ContactListViewModel destructor -1- timestamp: 2021-07-17 16:13:11.0935220-04:00
+GarbCollect() - 2021-07-17 16:13:11.1015380-04:00
+ContactListViewModel destructor -2- post Garb Collect - 2021-07-17 16:13:11.1019960-04:00
+==================================
+==================================
+ContactList OnAppearing -1- 2021-07-17 16:13:11.1024010-04:00
+ContactList OnAppearing -2- after base.OnAppearing - 2021-07-17 16:13:11.1035450-04:00
+GarbCollect() - 2021-07-17 16:13:11.1119270-04:00
+ContactList OnAppearing -3- post Garbage Collect - 2021-07-17 16:13:11.1123860-04:00
+==================================
+ContactListViewModel() constructor -1- start - timestamp: 2021-07-17 16:13:11.1131580-04:00
+ContactListViewModel() constructor -2- sqlite connection: SQLitePCL.sqlite3
+Repository() constructor start - 2021-07-17 16:13:11.1140950-04:00 - sqliteconnection ptr: SQLitePCL.sqlite3
+Repository() constructor completed - 2021-07-17 16:13:11.1150420-04:00
+ContactListViewModel() constructor -3- end - timestamp: 2021-07-17 16:13:11.1131580-04:00
+==================================
+ContactList OnAppearing -4- new ContactListViewModel - 2021-07-17 16:13:11.1167980-04:00
+==================================
+==================================
+ContactList OnDisappearing -1- start - 2021-07-17 16:13:16.8453450-04:00
+ContactList OnDisappearing -2- after base.OnDisappearing - 2021-07-17 16:13:16.8464500-04:00
+ContactList OnDisappearing -3- BindingContext set to null - 2021-07-17 16:13:16.8478070-04:00
+GarbCollect() - 2021-07-17 16:13:16.8579500-04:00
+ContactList OnDisappearing -4- post Garbage Collect - 2021-07-17 16:13:16.8583990-04:00
+==================================
+==================================
+ContactListViewModel destructor -1- timestamp: 2021-07-17 16:13:16.8594380-04:00
+GarbCollect() - 2021-07-17 16:13:16.8680500-04:00
+ContactListViewModel destructor -2- post Garb Collect - 2021-07-17 16:13:16.8684800-04:00
+==================================
+Repository() destructor -1- - 2021-07-17 16:13:16.8693080-04:00
+Repository() destructor -2- sqliteconnection pointer original: SQLitePCL.sqlite3
+Repository() destructor -3- sqliteconnection pointer current :  handle is null?
+Repository() destructor -4- in txn: False
+Repository() destructor -8- POST null, pre garb - 2021-07-17 16:13:16.8707870-04:00
+GarbCollect() - 2021-07-17 16:13:16.8795330-04:00
+Repository() destructor -9- POST GC #1 - 2021-07-17 16:13:16.8801880-04:00
+Repository() destructor -A- POST _databaseHelper null - 2021-07-17 16:13:16.8805690-04:00
+==================================
+==================================
+AddContactViewModel destructor -1- timestamp: 2021-07-17 16:13:16.8817430-04:00
+GarbCollect() - 2021-07-17 16:13:16.8912000-04:00
+AddContactViewModel destructor -2- post Garb Collect - 2021-07-17 16:13:16.8916410-04:00
+==================================
+AddContact destructor - 2021-07-17 16:13:16.8924380-04:00
+Repository() destructor -1- - 2021-07-17 16:13:16.8928390-04:00
+Repository() destructor -2- sqliteconnection pointer original: SQLitePCL.sqlite3
+Repository() destructor -3- sqliteconnection pointer current : SQLitePCL.sqlite3
+Repository() destructor -4- in txn: False
+Repository() destructor -8- POST null, pre garb - 2021-07-17 16:13:16.8941050-04:00
+GarbCollect() - 2021-07-17 16:13:16.9032420-04:00
+Repository() destructor -9- POST GC #1 - 2021-07-17 16:13:16.9037320-04:00
+Repository() destructor -A- POST _databaseHelper null - 2021-07-17 16:13:16.9041590-04:00
+==================================
+Thread started: <Thread Pool> #7
+Thread started: <Thread Pool> #8
+Thread started: <Thread Pool> #9
+Thread started: <Thread Pool> #10
+Thread started: <Thread Pool> #11
+Thread finished: <Thread Pool> #3
+Thread started: <Thread Pool> #12
+Thread finished: <Thread Pool> #8
+==================================
+MessageList OnAppearing -1- 2021-07-17 16:13:27.7060710-04:00
+MessageList OnAppearing -2- after base.OnAppearing - 2021-07-17 16:13:27.7071270-04:00
+GarbCollect() - 2021-07-17 16:13:27.7161730-04:00
+MessageList OnAppearing -3- post Garbage Collect - 2021-07-17 16:13:27.7166870-04:00
+ContactList destructor - 2021-07-17 16:13:27.7174700-04:00
+==================================
+MessageListViewModel() constructor -1- start - timestamp: 2021-07-17 16:13:27.7183430-04:00
+MessageListViewModel() constructor -2- sqlite connection: SQLitePCL.sqlite3
+Repository() constructor start - 2021-07-17 16:13:27.7195720-04:00 - sqliteconnection ptr: SQLitePCL.sqlite3
+Repository() constructor completed - 2021-07-17 16:13:27.7206950-04:00
+MessageListViewModel() constructor -3- end - timestamp: 2021-07-17 16:13:27.7183430-04:00
+==================================
+MessageList OnAppearing -4- new MessageListViewModel - 2021-07-17 16:13:27.7350480-04:00
+==================================
+==================================
+AddMessageViewModel() constructor -1- start - timestamp: 2021-07-17 16:13:29.8137220-04:00
+AddMessageViewModel() constructor -2- sqlite connection: SQLitePCL.sqlite3
+Repository() constructor start - 2021-07-17 16:13:29.8149220-04:00 - sqliteconnection ptr: SQLitePCL.sqlite3
+Repository() constructor completed - 2021-07-17 16:13:29.8159880-04:00
+AddMessageViewModel() constructor -3- end - timestamp: 2021-07-17 16:13:29.8137220-04:00
+==================================
+==================================
+MessageList OnDisappearing -1- start - 2021-07-17 16:13:30.4176520-04:00
+MessageList OnDisappearing -2- after base.OnDisappearing - 2021-07-17 16:13:30.4190350-04:00
+MessageList OnDisappearing -3- BindingContext set to null - 2021-07-17 16:13:30.4208800-04:00
+GarbCollect() - 2021-07-17 16:13:30.4334590-04:00
+MessageList OnDisappearing -4- post Garbage Collect - 2021-07-17 16:13:30.4341880-04:00
+==================================
+==================================
+AddMessage OnAppearing -1- 2021-07-17 16:13:30.4370160-04:00
+AddMessage OnAppearing -2- after base.OnAppearing - 2021-07-17 16:13:30.4380240-04:00
+GarbCollect() - 2021-07-17 16:13:30.4486130-04:00
+AddMessage OnAppearing -3- post Garbage Collect - 2021-07-17 16:13:30.4491120-04:00
+==================================
+==================================
+AddMessage OnDisappearing -1- start - 2021-07-17 16:13:47.7136760-04:00
+AddMessage OnDisappearing -2- after base.OnDisappearing - 2021-07-17 16:13:47.7148100-04:00
+GarbCollect() - 2021-07-17 16:13:47.7248340-04:00
+AddMessage OnDisappearing -3- post Garbage Collect - 2021-07-17 16:13:47.7253390-04:00
+==================================
+==================================
+MessageListViewModel destructor -1- timestamp: 2021-07-17 16:13:47.7268770-04:00
+GarbCollect() - 2021-07-17 16:13:47.7352820-04:00
+MessageListViewModel destructor -2- post Garb Collect - 2021-07-17 16:13:47.7358970-04:00
+==================================
+Repository() destructor -1- - 2021-07-17 16:13:47.7367390-04:00
+Repository() destructor -2- sqliteconnection pointer original: SQLitePCL.sqlite3
+Repository() destructor -3- sqliteconnection pointer current : SQLitePCL.sqlite3
+Repository() destructor -4- in txn: False
+Repository() destructor -8- POST null, pre garb - 2021-07-17 16:13:47.7382690-04:00
+GarbCollect() - 2021-07-17 16:13:47.7466710-04:00
+==================================
+MessageList OnAppearing -1- 2021-07-17 16:13:47.7471550-04:00
+Repository() destructor -9- POST GC #1 - 2021-07-17 16:13:47.7471810-04:00
+MessageList OnAppearing -2- after base.OnAppearing - 2021-07-17 16:13:47.7479230-04:00
+Repository() destructor -A- POST _databaseHelper null - 2021-07-17 16:13:47.7482960-04:00
+==================================
+GarbCollect() - 2021-07-17 16:13:47.7564500-04:00
+MessageList OnAppearing -3- post Garbage Collect - 2021-07-17 16:13:47.7575930-04:00
+==================================
+MessageListViewModel() constructor -1- start - timestamp: 2021-07-17 16:13:47.7582870-04:00
+MessageListViewModel() constructor -2- sqlite connection: SQLitePCL.sqlite3
+Repository() constructor start - 2021-07-17 16:13:47.7591340-04:00 - sqliteconnection ptr: SQLitePCL.sqlite3
+Repository() constructor completed - 2021-07-17 16:13:47.7601370-04:00
+MessageListViewModel() constructor -3- end - timestamp: 2021-07-17 16:13:47.7582870-04:00
+==================================
+MessageList OnAppearing -4- new MessageListViewModel - 2021-07-17 16:13:47.7679440-04:00
+==================================
+==================================
+AddMessageViewModel() constructor -1- start - timestamp: 2021-07-17 16:13:50.4408720-04:00
+AddMessageViewModel() constructor -2- sqlite connection: SQLitePCL.sqlite3
+Repository() constructor start - 2021-07-17 16:13:50.4419790-04:00 - sqliteconnection ptr: SQLitePCL.sqlite3
+Repository() constructor completed - 2021-07-17 16:13:50.4429920-04:00
+AddMessageViewModel() constructor -3- end - timestamp: 2021-07-17 16:13:50.4408720-04:00
+==================================
+==================================
+MessageList OnDisappearing -1- start - 2021-07-17 16:13:50.9900700-04:00
+MessageList OnDisappearing -2- after base.OnDisappearing - 2021-07-17 16:13:50.9911050-04:00
+MessageList OnDisappearing -3- BindingContext set to null - 2021-07-17 16:13:50.9924410-04:00
+GarbCollect() - 2021-07-17 16:13:51.0021270-04:00
+MessageList OnDisappearing -4- post Garbage Collect - 2021-07-17 16:13:51.0026870-04:00
+==================================
+AddMessage destructor - 2021-07-17 16:13:51.0036440-04:00
+==================================
+AddMessageViewModel destructor -1- timestamp: 2021-07-17 16:13:51.0048830-04:00
+GarbCollect() - 2021-07-17 16:13:51.0138150-04:00
+AddMessageViewModel destructor -2- post Garb Collect - 2021-07-17 16:13:51.0144420-04:00
+==================================
+==================================
+2021-07-17 16:13:51.015466-0400 TwoTypeExample.iOS[3734:122935] [logging] API call with invalid database connection pointer
+2021-07-17 16:13:51.015641-0400 TwoTypeExample.iOS[3734:122935] [logging] misuse at line 169014 of [02c344acea]
+AddMessage OnAppearing -1- 2021-07-17 16:13:51.0156690-04:00
+AddMessage OnAppearing -2- after base.OnAppearing - 2021-07-17 16:13:51.0164840-04:00
+Repository() destructor -1- - 2021-07-17 16:13:51.0165050-04:00
+Repository() destructor -2- sqliteconnection pointer original: SQLitePCL.sqlite3
+Repository() destructor -3- sqliteconnection pointer current :  handle is null?
+Repository() destructor -4- in txn: False
+GarbCollect() - 2021-07-17 16:13:51.0255170-04:00
+Repository() destructor -8- POST null, pre garb - 2021-07-17 16:13:51.0270720-04:00
+AddMessage OnAppearing -3- post Garbage Collect - 2021-07-17 16:13:51.0274180-04:00
+==================================
+GarbCollect() - 2021-07-17 16:13:51.0366280-04:00
+Repository() destructor -9- POST GC #1 - 2021-07-17 16:13:51.0374810-04:00
+Repository() destructor -A- POST _databaseHelper null - 2021-07-17 16:13:51.0378890-04:00
+==================================
+Thread finished: <Thread Pool> #7
+Thread finished: <Thread Pool> #11
+Thread finished: <Thread Pool> #5
+Thread finished: <Thread Pool> #12
+Thread started: <Thread Pool> #13
+==================================
+AddMessage OnDisappearing -1- start - 2021-07-17 16:14:20.6890200-04:00
+AddMessage OnDisappearing -2- after base.OnDisappearing - 2021-07-17 16:14:20.6899050-04:00
+GarbCollect() - 2021-07-17 16:14:20.6996850-04:00
+AddMessage OnDisappearing -3- post Garbage Collect - 2021-07-17 16:14:20.7001680-04:00
+==================================
+Repository() destructor -1- - 2021-07-17 16:14:20.7012810-04:00
+Repository() destructor -2- sqliteconnection pointer original: SQLitePCL.sqlite3
+Repository() destructor -3- sqliteconnection pointer current : SQLitePCL.sqlite3
+Repository() destructor -4- in txn: False
+Repository() destructor -8- POST null, pre garb - 2021-07-17 16:14:20.7027800-04:00
+GarbCollect() - 2021-07-17 16:14:20.7125660-04:00
+Repository() destructor -9- POST GC #1 - 2021-07-17 16:14:20.7131450-04:00
+Repository() destructor -A- POST _databaseHelper null - 2021-07-17 16:14:20.7135660-04:00
+==================================
+==================================
+MessageListViewModel destructor -1- timestamp: 2021-07-17 16:14:20.7149210-04:00
+GarbCollect() - 2021-07-17 16:14:20.7238100-04:00
+MessageListViewModel destructor -2- post Garb Collect - 2021-07-17 16:14:20.7243160-04:00
+==================================
+==================================
+MessageList OnAppearing -1- 2021-07-17 16:14:20.7252330-04:00
+MessageList OnAppearing -2- after base.OnAppearing - 2021-07-17 16:14:20.7258690-04:00
+GarbCollect() - 2021-07-17 16:14:20.7338410-04:00
+MessageList OnAppearing -3- post Garbage Collect - 2021-07-17 16:14:20.7342820-04:00
+==================================
+MessageListViewModel() constructor -1- start - timestamp: 2021-07-17 16:14:20.7349250-04:00
+MessageListViewModel() constructor -2- sqlite connection: SQLitePCL.sqlite3
+Repository() constructor start - 2021-07-17 16:14:20.7357940-04:00 - sqliteconnection ptr: SQLitePCL.sqlite3
+Repository() constructor completed - 2021-07-17 16:14:20.7367390-04:00
+MessageListViewModel() constructor -3- end - timestamp: 2021-07-17 16:14:20.7349250-04:00
+==================================
+MessageList OnAppearing -4- new MessageListViewModel - 2021-07-17 16:14:20.7391880-04:00
+==================================
+==================================
+Thread finished: <Thread Pool> #10
+Thread finished: <Thread Pool> #13
+Thread started: <Thread Pool> #14
+Thread finished: <Thread Pool> #9
+Thread started: <Thread Pool> #15
+Thread started: <Thread Pool> #16
+Thread finished: <Thread Pool> #15
+Thread finished: <Thread Pool> #16
+Thread started: <Thread Pool> #3
+Thread started: <Thread Pool> #17
+Thread finished: <Thread Pool> #3
+Thread finished: <Thread Pool> #14
+Thread started: <Thread Pool> #18
+Thread finished: <Thread Pool> #17
+Thread started: <Thread Pool> #19
+Thread started: <Thread Pool> #20
+Thread finished: <Thread Pool> #19
+Thread finished: <Thread Pool> #18
+Thread started: <Thread Pool> #21
+Thread finished: <Thread Pool> #20
+2021-07-17 16:19:24.412848-0400 TwoTypeExample.iOS[3734:122926] Xamarin.iOS: Processing: 'exit process'
