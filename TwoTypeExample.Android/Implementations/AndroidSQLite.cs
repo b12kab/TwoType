@@ -33,8 +33,7 @@ namespace TwoTypeExample.Droid.Implementations
                         SQLiteOpenFlags.SharedCache |
                         SQLiteOpenFlags.ReadWrite |
                         SQLiteOpenFlags.Create |
-                        SQLiteOpenFlags.FullMutex,
-                        true, null);
+                        SQLiteOpenFlags.FullMutex);
                     connectionInfo.ConnConnection = conn;
                 }
                 catch (System.Exception ex)

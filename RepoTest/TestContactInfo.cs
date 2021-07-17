@@ -75,6 +75,5 @@ namespace RepoTest
 
             return new SQLiteConnection(path);
         }
-
     }
 }

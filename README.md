@@ -1,5 +1,19 @@
-Source
--------
+July 2021 Update Message
+-------------------------
+
+I've updated this example showing the error. Only the SQLite-net was updated from 1.5.231 to the current version at the time of publishing, which is [1.7.335](https://www.nuget.org/packages/sqlite-net-pcl/1.7.335).
+
+The original source version is listed under the [v1.0](https://github.com/b12kab/TwoType/releases/tag/v1.0) release. The updated 1.7.335 version is on the master branch.
+
+The SQLiteConnection has changed slightly, where as there isn't any fourth parameter; I've modified the connection to remove the third and fourth parameter.
+
+The error message from the 2021 log file [here](https://github.com/b12kab/TwoType/tree/master/problem.vid.and.log/2021_logfile.txt)
+2021-07-17 16:13:51.015466-0400 TwoTypeExample.iOS[3734:122935] [logging] API call with invalid database connection pointer
+
+Given no action in two years; if multithreaded database is needed, use another database.
+
+Original Message
+-----------------
 This is a repurposing of my existing [SQLite Sample](https://github.com/b12kab/SQLiteSample) adding complexity, now with two different types: a contact and a message (for the contact).
 
 The reason I created this was that I noticed an error showing with the iOS version of [SQLite-net-pcl](https://www.nuget.org/packages/sqlite-net-pcl/) showing "API call with invalid database connection pointer". The specific version used is [1.5.231](https://www.nuget.org/packages/sqlite-net-pcl/1.5.231) (the production version at the time of writing). 
@@ -24,7 +38,7 @@ Based on the log, the error comes up in the Finalize of the SQLiteConnection. In
 Information from SQLite about the open flags is [here](https://www.sqlite.org/threadsafe.html).
 
 A useful Xamarin forms forum entry on multi-threading errors is [here](https://forums.xamarin.com/discussion/549/sqlite-net-and-multiple-threads). 
- 
+
 License
 -------
 

@@ -46,7 +46,7 @@ namespace TwoTypeExample.ViewModel
                     }
                     else
                     {
-                        textPointer = dbConnection.Connection.Handle.ptr.ToString();
+                        textPointer = dbConnection.Connection.Handle.ToString();
                     }
                 }
 

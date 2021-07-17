@@ -19,7 +19,7 @@ namespace TwoTypeExample.Services
             {
                 if (connection.Handle != null)
                 {
-                    originalPointer = connection.Handle.ptr.ToString();
+                    originalPointer = connection.Handle.ToString();
                 }
             }
 
@@ -116,7 +116,7 @@ namespace TwoTypeExample.Services
             {
                 if (sqliteConnection.Handle != null)
                 {
-                    pointerText = sqliteConnection.Handle.ptr.ToString();
+                    pointerText = sqliteConnection.Handle.ToString();
                 }
                 else
                 {

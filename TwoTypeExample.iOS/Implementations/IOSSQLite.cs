@@ -28,8 +28,7 @@ namespace TwoTypeExample.iOS.Implementations
                         SQLiteOpenFlags.SharedCache |
                         SQLiteOpenFlags.ReadWrite |
                         SQLiteOpenFlags.Create |
-                        SQLiteOpenFlags.FullMutex,
-                        true, null);
+                        SQLiteOpenFlags.FullMutex);
 
                     connectionInfo.ConnConnection = conn;
                 }
